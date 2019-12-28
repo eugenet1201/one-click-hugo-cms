@@ -13,10 +13,9 @@ blurb:
 intro:
   heading: What Eugene offers
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Eugene has experience in engineering, coding, analytics and administrative
+    duties. Eugene also enjoys reading books and trawling wikipedia, and will
+    gladly pass that information to anyone who is willing to listen.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
