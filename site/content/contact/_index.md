@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logo.svg
+logo: /img/name.png
 contact_entries:
   - heading: Working hours
     text: 'Monday – Sunday: 9AM – 9PM '
