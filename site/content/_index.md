@@ -1,16 +1,17 @@
 ---
 title: Great person with a conscience
-subtitle: Support Eugene Tan's ambition while enjoying his lovely company
+subtitle: Support Eugene's ambition while enjoying his lovely company
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why Eugene?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Eugene is a person who believes that the technology is the gateway to an
+    egalitarian society by providing anyone with the tools and knowledge
+    provided they have internet access. Having volunteered with Penang Science
+    Cluster educating disadvantaged students, Eugene saw firsthand how the
+    internet is changing the education landscape in Malaysia. 
 intro:
-  heading: What we offer
+  heading: What Eugene offers
   text: >-
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
